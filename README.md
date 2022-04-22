@@ -12,3 +12,5 @@ For this project, we made a ReadMe Generator using Node and Inquirer. By opening
 Users will need to download Node and Inquirer for the program to work.
 
 ## Product Video Link
+
+https://youtu.be/lbFavhh1FiU
