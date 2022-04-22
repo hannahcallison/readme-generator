@@ -5,7 +5,7 @@
 
 ## Introduction
 
-For this project, we made a ReadMe Generator using Node and Inquirer. By opening the integrated terminalk, users can create a ReadMe by filling out the command line prompts. The create file function will produce their new doc with all of their information populated on the ReadMe. 
+For this project, we made a ReadMe Generator using Node and Inquirer. By opening the integrated terminal, users can create a ReadMe by filling out the command line prompts. The create file function will produce their new doc with all of their information populated on the ReadMe. 
 
 ## User Interaction Criteria
 
