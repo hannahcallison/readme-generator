@@ -86,7 +86,7 @@ inquirer
   ### **Email**
   ${answers.email}`
 
-  fs.writeFile('newREADME.md', markdown, function (err){
+  fs.writeFile(`${answers.title}.README.md`, markdown, function (err){
       if(err){
       console.log(err)}
         })
