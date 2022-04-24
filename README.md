@@ -13,4 +13,4 @@ Users will need to download Node and Inquirer for the program to work.
 
 ## Product Video Link
 
-https://youtu.be/lbFavhh1FiU
+https://youtu.be/458q8YJ6bdk
